@@ -1,0 +1,13 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/white_candle"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "block/custom/airport"},
+    {"predicate": {"custom_model_data": 2}, "model": "block/custom/airport2"},
+    {"predicate": {"custom_model_data": 3}, "model": "block/custom/airport3"},
+    {"predicate": {"custom_model_data": 4}, "model": "block/custom/airport4"},
+    {"predicate": {"custom_model_data": 5}, "model": "block/custom/airport5"}
+  ]
+}

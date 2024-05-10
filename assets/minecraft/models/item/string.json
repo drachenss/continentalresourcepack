@@ -1,0 +1,16 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/string"
+ },
+ "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "block/custom/trenchi"},
+  {"predicate": {"custom_model_data":2}, "model": "block/custom/trenchl"},
+  {"predicate": {"custom_model_data":3}, "model": "block/custom/trencht"},
+  {"predicate": {"custom_model_data":4}, "model": "block/custom/trenchx"},
+  {"predicate": {"custom_model_data":5}, "model": "block/custom/trenchend"},
+  {"predicate": {"custom_model_data":6}, "model": "block/custom/trenchdot"},
+  {"predicate": {"custom_model_data":7}, "model": "block/custom/trenchigun"},
+  {"predicate": {"custom_model_data":8}, "model": "block/custom/trenchtgun"}
+ ]
+}

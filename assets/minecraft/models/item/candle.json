@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/candle"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "block/custom/artillery"},
+    {"predicate": {"custom_model_data": 2}, "model": "block/custom/artillery2"},
+    {"predicate": {"custom_model_data": 3}, "model": "block/custom/artillery3"},
+    {"predicate": {"custom_model_data": 4}, "model": "block/custom/artillery4"}
+  ]
+}

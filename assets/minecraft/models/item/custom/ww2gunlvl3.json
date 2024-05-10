@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/custom/guntextureww2lvl3",
+		"particle": "item/custom/guntextureww2lvl3"
+	},
+	"elements": [
+		{
+			"from": [7, 0, -16],
+			"to": [8, 12, 32],
+			"faces": {
+				"north": {"uv": [2, 24, 3, 36], "texture": "#0"},
+				"east": {"uv": [0, 1.625, 5.75, 3], "texture": "#0"},
+				"south": {"uv": [3, 24, 4, 36], "texture": "#0"},
+				"west": {"uv": [0, 12, 48, 24], "texture": "#0"},
+				"up": {"uv": [1, 72, 0, 24], "texture": "#0"},
+				"down": {"uv": [2, 24, 1, 72], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}
